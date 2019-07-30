@@ -1,1 +1,10 @@
-TODO
+- install python 3
+- install anaconda (with jupyter support)
+- install numpy
+- install scipy
+- install scikit-learn
+- unzip solution’s scripts in desired directory
+- edit config.py - define paths to basic prices .xlsx files for cost calculation, as well as paths to the root directories of raw mrs and video datasets
+- open and run parser_init.ipynb to parse and generate datasets from raw data
+
+*additionally: depending on your anaconda environment, some of the used libraries will have to be manually installed through anaconda bash (e.g. keras in neural network modules)
